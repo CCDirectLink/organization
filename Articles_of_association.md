@@ -25,6 +25,7 @@ f. Representants can not leave until a successor is decided by a group decision.
 a. Decision taking is done through a voting system, defined below.
 
 b. The following kinds of decisions can be subject for a voting through this subset of articles:
+
     1. Global group changes (e.g. name, logo, ...).
     2. Additions, removals or changes of representants.
     3. Changes in these Articles of Association.
