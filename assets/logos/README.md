@@ -15,7 +15,7 @@ Optional property of the asset. Any asset can have none, one or multiple propert
 
 ### Property 01: `.square`
 
-The logo has a square base area. This variant should be used for assets that requires to be squared like website favicon or application logos. The logo should have a native size of `64x64`. If it is not possible to fit the logo in `64x64` sizes like `128x128`, `256x256`, `512x512`, ... can be used. It can be used for any `1:1` size like 8x8 or `512x512`.
+The logo has a square base area. This variant should be used for assets that requires to be squared like website favicon or application logos. The logo should have a native size of `64x64`. If it is not possible to fit the logo in `64x64` sizes like `128x128`, `256x256`, `512x512`, ... can be used. It can be used for any `1:1` size like `8x8` or `512x512`.
 
 ### Property 02: `.min`
 
