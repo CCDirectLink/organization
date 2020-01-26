@@ -1,6 +1,6 @@
 # Logo
 
-Please use only this repository as official resource for C2Dl logo assets. All assets are published as svg to ensure that the assets can be used in any resolution or size.
+Please use only this repository as official resource for C2DL-Logo assets. All assets are published as svg to ensure that the assets can be used in any resolution or size.
 
 | `Logo Type` | Description         |
 |:----------- |:------------------- |
@@ -29,9 +29,7 @@ Minified version of the svg. The formatting is removed and the data are stored c
 
 ## Accessability
 
-Logos fulfill the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/).
-
-Requirements:
+Logos fulfill the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/). The requirements are:
 
 - Logo title
 
@@ -39,7 +37,7 @@ Requirements:
 	<title>{{Title text}}</title>
 	```
 
-- Elements like `<symbol>` and `<path>` have a description that describes the element in english
+- Elements like `<symbol>` and `<path>` have a information text that describes the element in english
 
 	```
 	<desc>{{Element description}}</desc>
