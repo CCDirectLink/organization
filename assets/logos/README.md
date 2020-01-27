@@ -27,7 +27,7 @@ Minified version of the svg. The formatting is removed and the data are stored c
 - The used elements should be as smal as possible
 - All dimensions, element sizes, positions and transformations should use integer if possible
 
-## Accessability
+## Accessibility
 
 Logos fulfill the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/). The requirements are:
 
